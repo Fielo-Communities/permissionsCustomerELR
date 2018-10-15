@@ -1415,6 +1415,13 @@
 		<object>FieloPLT__Consent__c</object>
 	</objectPermissions>
 
+	<objectPermissions>
+		<allowCreate>true</allowCreate>
+		<allowDelete>false</allowDelete>
+		<allowEdit>true</allowEdit>
+		<allowRead>true</allowRead>
+		<object>FieloPRP__Invoice__c</object>
+	</objectPermissions>
 	
 	<objectPermissions>
 		<allowCreate>true</allowCreate>
